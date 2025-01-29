@@ -4,7 +4,6 @@ These **DLL files** ensure that voice connectivity works smoothly in **Ripcord**
 
 ## 📂 Included Files  
 
-- 🖌️ **`UxTheme.dll`** – Handles UI theming and related dependencies.  
 - 🗂️ **`profapi.dll`** – Manages user profile-related operations.  
 
 ## 🚀 How to Use  
