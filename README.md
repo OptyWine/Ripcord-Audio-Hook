@@ -1,10 +1,10 @@
-# 🎙️ DLL Files for Voice Connection in **Ripcord**  
+# 🎙️ DLL File for Voice Connection in **Ripcord**  
 
 These **DLL files** ensure that voice connectivity works smoothly in **Ripcord**, a minimal and lightweight version of Discord. They help provide essential system functions required for audio communication.  
 
 ## 📂 Included Files  
 
-- 🗂️ **`profapi.dll`** – Manages user profile-related operations.  
+- 🗂️ **[`profapi.dll`]**(https://github.com/OptyWine/Ripcord-Audio-Hook/blob/main/dll/profapi.dll) – Connection to Voice Channel
 
 ## 🚀 How to Use  
 
