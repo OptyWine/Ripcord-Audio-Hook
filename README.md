@@ -4,7 +4,7 @@ These **DLL files** ensure that voice connectivity works smoothly in **Ripcord**
 
 ## 📂 Included Files  
 
-- 🗂️ **[`profapi.dll`]**(https://github.com/OptyWine/Ripcord-Audio-Hook/blob/main/dll/profapi.dll) – Connection to Voice Channel
+- 🗂️ [***`profapi.dll`***](https://github.com/OptyWine/Ripcord-Audio-Hook/blob/main/dll/profapi.dll) – Connection to Voice Channel
 
 ## 🚀 How to Use  
 
